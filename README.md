@@ -48,10 +48,9 @@ Estas funciones son utilizadas de forma modular por los diferentes pipelines def
 | `requirements.txt`     | Lista completa de dependencias |
 | `Hacia un Diagnóstico Computacional de la Depresión: Un enfoque basado en Deep Learning híbrido para el análisis de resonancias magnéticas.pdf`              | Documento final del proyecto |
 
-## 📋 Créditos
+## Créditos
 
 - **Autor:** Alejandro Francisco Chivite Bermúdez  
 - **Tutor:** Raúl Parada Medina  
 - **Programa:** Máster Universitario en Ciencia de Datos (UOC)  
 - **Fecha:** Mayo de 2025  
-- **Licencia:** Creative Commons BY-NC-ND 3.0 España
